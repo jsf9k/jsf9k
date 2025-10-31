@@ -6,14 +6,14 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=jsf9k&hide_border=true&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark"
+      srcset="https://github-readme-stats.vercel.app/api?username=jsf9k&hide_border=true&rank_icon=percentile&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&show_icons=true&theme=dark"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=jsf9k&hide_border=true&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=default"
+      srcset="https://github-readme-stats.vercel.app/api?username=jsf9k&hide_border=true&rank_icon=percentile&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&show_icons=true&theme=default"
       media="(prefers-color-scheme: light)"
     />
-    <img align="center" alt="jsf9k's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=jsf9k&hide_border=true&rank_icon=percentile&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent" />
+    <img align="center" alt="jsf9k's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=jsf9k&hide_border=true&rank_icon=percentile&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage&show_icons=true&theme=transparent" />
   </picture>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
